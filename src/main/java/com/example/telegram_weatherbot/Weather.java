@@ -37,11 +37,11 @@ public class Weather {
             model.setMain((String) obj.get("main"));
         }
 
-        return "Погода в городе: " + model.getName() + "\n" +
-                "Температура: " + model.getTemp() + " C°" + "\n" +
-                "Влажность :" + model.getHumidity() + " %" + "\n" +
-                "Скорость ветра : " + model.getWind() + " м/c" + "\n" +
-                "Состояние : " + model.getMain() + "\n" +
+        return "Weather in " + model.getName() + "\n" +
+                "Temperature: " + model.getTemp() + " °C" + "\n" +
+                "Humidity: " + model.getHumidity() + " %" + "\n" +
+                "Wind: " + model.getWind() + " m/s" + "\n" +
+                "Current state: " + model.getMain() + "\n" +
                 "http://openweathermap.org/img/w/" + model.getIcon() + ".png";
     }
 }
