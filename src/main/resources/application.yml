@@ -1,4 +1,4 @@
 telegram:
   bot:
-    username: ${TELEGRAM_BOT_USERNAME:WeatherAryanBot}
-    token: ${TELEGRAM_BOT_TOKEN:1283457001:AAGzEGMzV8UCYD_15_qEpO-6TSAu7M_gNh8}
+    username: ${TELEGRAM_BOT_USERNAME}
+    token: ${TELEGRAM_BOT_TOKEN}
