@@ -43,7 +43,7 @@ To run this project, you will need to add the following environment variables to
 
 - `TELEGRAM_BOT_TOKEN` - Get token by contacting  to [BotFather](https://t.me/botfather)
 
-  ### Deploy on [Heroku](https://heroku.com)
+## Deploy on [Heroku](https://heroku.com)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
