@@ -1,5 +1,5 @@
 
-<h1 align="center">Jolybot" Weather bot for Telegram </h1>
+<h1 align="center">Weather bot for Telegram 🌦</h1>
 <div align="center">
   
 ###### You can get information about weather in all cities in the world in real-time
@@ -35,11 +35,24 @@
   
 ## Installation
 
-Install my-project with npm
+For install the project, follow next steps:
+
+- Open the Terminal
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone https://github.com/filtitov2001/WeatherBot
+  
+```
+- Set your generated token and username in application.yml
+- 
+- Build the project and start:
+```bash
+  mvn -DskipTests clean dependency:list install
+  
+  cd target
+  
+  java -jar Telegram_WeatherBot.jar
+  
 ```
     
 ## Environment Variables
