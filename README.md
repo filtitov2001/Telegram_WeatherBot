@@ -16,6 +16,17 @@
 
 </div>
 
+## Table of Contents
+
+- [Screenshots](#screenshots)
+
+- [Technology stack](#technology-stack)
+
+- [Installation](#installation)
+
+- [Deploy](#deploy)
+
+- [Environment Variables](#environment-variables)
 
 
 
@@ -26,7 +37,7 @@
 ![App Screenshot](https://github.com/filtitov2001/WeatherBot/blob/main/assets/second.png)
 
   
-## Tech Stack
+## Technology Stack
 
 * Java 15
 * Telegram API
@@ -57,6 +68,11 @@ For install the project, follow next steps:
   
 ```
     
+
+## Deploy on [Heroku](https://heroku.com)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your application.yml file
@@ -65,10 +81,6 @@ To run this project, you will need to add the following environment variables to
 - `TELEGRAM_BOT_USERNAME` - Create a bot via [BotFather](https://t.me/botfather)
 
 - `TELEGRAM_BOT_TOKEN` - Get token by contacting  to [BotFather](https://t.me/botfather)
-
-## Deploy on [Heroku](https://heroku.com)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 ## Copyright
