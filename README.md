@@ -5,9 +5,10 @@
 
 [![JDK](https://img.shields.io/badge/JDK-15-orange)](https://www.oracle.com/java/technologies/javase/15-relnote-issues.html)
 [![Maven](https://img.shields.io/badge/Maven-4.0.0-9cf)](https://www.apache.org)
-[![TelegramAPI](https://img.shields.io/badge/telegrambots-5.0.0-blue)](https://core.telegram.org/bots/api)
+[![Telegram API](https://img.shields.io/badge/telegrambots-5.0.0-blue)](https://core.telegram.org/bots/api)
 
 </div>
+[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-1.0.0-0088cc)](https://t.me/WeatherAryanBot)
 
 
 
@@ -22,9 +23,11 @@
   
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+* Java 15
+* Telegram API
+* Maven
+* Open Weather Map API
 
-**Server:** Node, Express
 
   
 ## Installation
