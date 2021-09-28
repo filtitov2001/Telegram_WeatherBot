@@ -47,4 +47,7 @@ To run this project, you will need to add the following environment variables to
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-  
+
+## Copyright
+
+Copyright © 2021 by [Felix Titov](https://github.com/filtitov2001)
