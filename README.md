@@ -1,15 +1,17 @@
 
-<h1 align="center">Jolybot" Weather bot for Telegram </h1>
+<h1 align="center">Jolybot" Weather bot for Telegram 
 
 ###### You can get information about weather in all cities in the world in real-time
+  
+[![JDK](https://img.shields.io/badge/JDK-15-orange)](https://www.oracle.com/java/technologies/javase/15-relnote-issues.html)
+[![Maven](https://img.shields.io/badge/Maven-4.0.0-9cf)](https://www.apache.org)
+[![TelegramAPI](https://img.shields.io/badge/telegrambots-5.0.0-blue)](https://core.telegram.org/bots/api)
+
+</h1>
 
 
 
 
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
   
 ## Screenshots
