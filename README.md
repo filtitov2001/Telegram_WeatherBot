@@ -46,7 +46,7 @@ For install the project, follow next steps:
   
 ```
 - Set your generated token and username in application.yml
-- 
+
 - Build the project and start:
 ```bash
   mvn -DskipTests clean dependency:list install
