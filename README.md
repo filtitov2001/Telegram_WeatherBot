@@ -34,7 +34,6 @@
 ## Screenshots
 
 ![App Screenshot](https://github.com/filtitov2001/WeatherBot/blob/main/assets/first.png)
-
 ![App Screenshot](https://github.com/filtitov2001/WeatherBot/blob/main/assets/second.png)
 
   
