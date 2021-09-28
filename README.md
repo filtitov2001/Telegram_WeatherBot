@@ -1,6 +1,7 @@
 
 <h1 align="center">Jolybot" Weather bot for Telegram </h1>
 <div align="center">
+  
 ###### You can get information about weather in all cities in the world in real-time
 
 [![JDK](https://img.shields.io/badge/JDK-15-orange)](https://www.oracle.com/java/technologies/javase/15-relnote-issues.html)
@@ -9,10 +10,11 @@
 
 </div>
 
+<div align="center">
+  
 [![Telegram](https://img.shields.io/badge/Telegram%20Bot-1.0.0-0088cc)](https://t.me/WeatherAryanBot)
 
-
-
+</div>
 
 
   
