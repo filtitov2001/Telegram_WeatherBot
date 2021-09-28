@@ -24,7 +24,7 @@
 
 - [Installation](#installation)
 
-- [Deploy](#deploy)
+- [Deploy](#deploy-on-heroku)
 
 - [Environment Variables](#environment-variables)
 
