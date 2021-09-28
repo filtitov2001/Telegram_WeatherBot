@@ -8,7 +8,7 @@
 [![Telegram API](https://img.shields.io/badge/telegrambots-5.0.0-blue)](https://core.telegram.org/bots/api)
 
 </div>
-[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-1.0.0-0088cc)](https://t.me/WeatherAryanBot)
+[![Telegram](https://img.shields.io/badge/Telegram%20Bot-1.0.0-0088cc)](https://t.me/WeatherAryanBot)
 
 
 
