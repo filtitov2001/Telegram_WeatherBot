@@ -16,6 +16,9 @@
 
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filtitov2001&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
