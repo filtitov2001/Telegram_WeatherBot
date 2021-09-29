@@ -16,7 +16,7 @@
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filtitov2001&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filtitov2001&repo=WeatherBot)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Table of Contents
