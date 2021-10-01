@@ -65,9 +65,11 @@ For install the project, follow next steps:
   
   cd target
   
-  java -jar Telegram_WeatherBot.jar
+  java -jar <file name>.jar
   
 ```
+
+Also you can download package from this repository
     
 
 ## Deploy on [Heroku](https://heroku.com)
